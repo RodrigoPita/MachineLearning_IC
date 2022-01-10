@@ -1,4 +1,4 @@
-# MachineLearning_IC
+# MachineLearning_IC (Octave)
  UFRJ_BCC_2018.1
 
 Orientador: Roberto Stelling (robstelling@gmail.com)
